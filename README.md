@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ML..
+- 🔭 I’m currently working on Django & CV ML..
 - 🌱 I’m currently learning ML..
 - 👯 I’m looking to collaborate on Python and MERN..
 - 🤔 I’m looking for help with ML and Django...
