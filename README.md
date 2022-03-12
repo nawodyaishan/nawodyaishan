@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me: https://nawodyaishan.github.io
 
+### Watch my contribution graph get eaten by the snake 🐍
 
+![Nawodya ishan gif](https://github.com/nawodyaishan/nawodyaishan/blob/output/github-contribution-grid-snake.svg)
 
