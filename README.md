@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... --->
 - ⚡ Fun fact: I love playing Drum for Rock music \m/
 
-#### 📫 How to reach me: [nawodyaishan.github.io]
+#### 📫 How to reach me: https://nawodyaishan.github.io
 
 
 
