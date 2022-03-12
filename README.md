@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I am Nawodya Ishan. Currently undergraduate from Sri Lanka Technological Campus envolving in Web and AI Dev.
+## I am Nawodya Ishan
+
+### Currently undergraduate from Sri Lanka Technological Campus envolving in Web and AI Dev.
 
 Here are some ideas to get you started:
 
