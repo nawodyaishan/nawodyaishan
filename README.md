@@ -4,8 +4,6 @@
 
 ### An undergraduate student from Sri Lanka Technological Campus involving in Web and AI Dev.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Django & CV ML..
 - 🌱 I’m currently learning ML C#..
 - 👯 I’m looking to collaborate on Python and MERN..
