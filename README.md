@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ML and Django...
 <!-- - 💬 Ask me about ... 
 - 😄 Pronouns: ... --->
-- ⚡ Fun fact: I love playing my drumset for Rock music while Headbanging \m/
+- ⚡ Fun fact: I love playing my drums for Rock music while Headbanging \m/
 
 #### 📫 How to reach me: https://nawodyaishan.github.io
 
