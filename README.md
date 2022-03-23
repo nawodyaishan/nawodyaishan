@@ -1,8 +1,12 @@
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/SOUY.gif">
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ### Hi there 👋
+## I am Nawodya Ishan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-## I am Nawodya Ishan
+<p align="center">
+<img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
+</p>
 
 ### An undergraduate student from Sri Lanka Technological Campus involving in Web and AI Dev.
 
