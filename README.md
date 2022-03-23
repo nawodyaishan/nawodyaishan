@@ -1,7 +1,5 @@
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3ySxaT4Tv5EbCHD4xWCuvz&ust=1648133154061000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjW8cu83PYCFQAAAAAdAAAAABAW
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/vvsL1MPsJWg8cws8A")
 
 ### Hi there 👋
 
