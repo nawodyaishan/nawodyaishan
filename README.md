@@ -25,7 +25,9 @@
 
 <p align="left"> <a href="https://twitter.com/nawodyaishan" target="blank"><img src="https://img.shields.io/twitter/follow/nawodyaishan?logo=twitter&style=for-the-badge" alt="nawodyaishan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+- 👨‍💻 Visit [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
 
 - 📫 How to reach me **nawodyain@gmail.com**
 
