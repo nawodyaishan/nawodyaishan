@@ -1,5 +1,4 @@
-
-(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/vvsL1MPsJWg8cws8A")
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/vvsL1MPsJWg8cws8A">
 
 ### Hi there 👋
 
