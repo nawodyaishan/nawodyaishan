@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7IjS.gif">
 
 ### Hi there 👋
 
