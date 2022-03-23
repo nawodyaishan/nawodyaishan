@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7IjS.gif">
+<img align="right" alt="Coding" width="400" src="https://gifer.com/7IjS">
 
 ### Hi there 👋
 
