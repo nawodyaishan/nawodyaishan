@@ -18,6 +18,9 @@
 - 😄 Pronouns: ... --->
 - ⚡ Fun fact: I love playing my drums for Rock music while Headbanging \m/
 
+- 👨‍💻 Visit [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
+
+- 📫 How to reach me **nawodyain@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawodyaishan&label=Profile%20views&color=0e75b6&style=flat" alt="nawodyaishan" /> </p>
 
@@ -27,9 +30,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-- 👨‍💻 Visit [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
-
-- 📫 How to reach me **nawodyain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
