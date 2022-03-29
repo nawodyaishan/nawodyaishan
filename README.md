@@ -3,7 +3,7 @@
 ### Hi there 👋
 ## I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-#### An undergraduate student from Sri Lanka Technological Campus involving in AI Game and Web Dev.
+#### An undergraduate student from Sri Lanka Technological Campus involving in AI, ML, Game and Web Dev.
 
 
 <p align="center">
