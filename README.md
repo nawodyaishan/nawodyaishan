@@ -10,10 +10,10 @@
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 </p>
 
-- 🔭 I’m currently working on Django & CV ML..
-- 🌱 I’m currently learning ML C#..
-- 👯 I’m looking to collaborate on Python and MERN..
-- 🤔 I’m looking for help with ML and Django...
+- 🔭 I’m currently working on Python ML & Unity C#..
+- 🌱 I’m currently learning Swift & Django..
+- 👯 I’m looking to collaborate on Python and C#..
+<!-- 🤔 I’m looking for help with ML and Django...-->
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ... --->
 - ⚡ Fun fact: I love playing my drums for Rock music while Headbanging \m/
