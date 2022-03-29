@@ -57,11 +57,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawodyaishan&show_icons=true&locale=en&layout=compact" alt="nawodyaishan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawodyaishan&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="nawodyaishan" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&locale=en" alt="nawodyaishan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&locale=en" alt="nawodyaishan" /></p>
 
 
 
