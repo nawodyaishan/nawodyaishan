@@ -66,8 +66,8 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-
+- [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
+- [Introduction to Machine Learning and Hello World in Neural Networks](https://nawodyaishan.medium.com/introduction-to-machine-learning-and-hello-world-in-neural-networks-317ab0f9fdfa?source=rss-6c6cc46357d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
