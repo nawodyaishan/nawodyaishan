@@ -61,9 +61,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawodyaishan&" alt="nawodyaishan" /></p>
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 
