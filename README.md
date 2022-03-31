@@ -61,7 +61,7 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## Blog posts
 
