@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Python ML & Unity C#..
 - 🌱 I’m currently learning Swift & Django..
-- 👯 I’m looking to collaborate on Python and C#..
+<!-- - 👯 I’m looking to collaborate on Python and C#.. -->
 <!-- 🤔 I’m looking for help with ML and Django...-->
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ... --->
