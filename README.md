@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on Python ML, Unity C#, Swift & Django..
 - 🎓 IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
-- ⚡ Fun fact: I love playing my drums for 🎸rock & metal music while Headbanging \m/
+- ⚡ Fun fact: I love playing drums for 🎸rock & metal music while Headbanging \m/
 
 - 👨‍💻 Visit [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
 
