@@ -19,6 +19,7 @@
 
 - 📫 How to reach me **nawodyain@gmail.com**
 
+![Linkedin: nawodyaishan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nawodyaishan&label=Profile%20views&color=0e75b6&style=flat" alt="nawodyaishan" /> </p>
 
@@ -26,7 +27,6 @@
 -->
 <p align="center"> <a href="https://twitter.com/nawodyaishan" target="blank"><img src="https://img.shields.io/twitter/follow/nawodyaishan?logo=twitter&style=for-the-badge" alt="nawodyaishan" /></a> </p>
 
-![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
