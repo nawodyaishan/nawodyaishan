@@ -3,24 +3,24 @@
 ### Hi there 👋
 ## I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-#### An undergraduate student from Sri Lanka Technological Campus involving in AI, ML, Game and Web Dev.
+#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC📡 involving in ML, Game and Web Dev.
 
 
 <p align="center">
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 </p>
 
-- 🔭 I’m currently working on Python ML & Unity C#..
-- 🌱 I’m currently learning Swift & Django..
-<!-- - 👯 I’m looking to collaborate on Python and C#.. -->
-<!-- 🤔 I’m looking for help with ML and Django...-->
-<!-- - 💬 Ask me about ...
-- 😄 Pronouns: ... --->
-- ⚡ Fun fact: I love playing my drums for Rock music while Headbanging \m/
+- 🔭 I’m currently working on Python ML, Unity C#, Swift & Django..
+- 🎓 IEEE CS SBC Chairman @SLTC
+- 🎯 Highly motivated to learn and explore new tech and solve problems ✅
+- ⚡ Fun fact: I love playing my drums for 🎸rock & metal music while Headbanging \m/
 
 - 👨‍💻 Visit [http://nawodyaishan.github.io](http://nawodyaishan.github.io)
 
 - 📫 How to reach me **nawodyain@gmail.com**
+
+[![Linkedin: nawodyaishan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)][linkedin]
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nawodyaishan&label=Profile%20views&color=0e75b6&style=flat" alt="nawodyaishan" /> </p>
 
