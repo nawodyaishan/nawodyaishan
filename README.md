@@ -80,7 +80,7 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p>
 
 
 
