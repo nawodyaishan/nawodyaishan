@@ -10,7 +10,7 @@
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 </p>
 
-- 🔭 I’m currently working on Python ML, Unity C#, Swift & Django..
+- 🔭 I’m currently learning AI ML, GAME, & BACKEND dev.....
 - 🎓 IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - ⚡ Fun fact: I love playing drums for 🎸rock & metal music while Headbanging \m/
