@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nawodyain@gmail.com**
 
-![Linkedin: nawodyaishan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)
+- 👉🏼 ![Linkedin: nawodyaishan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nawodyaishan&label=Profile%20views&color=0e75b6&style=flat" alt="nawodyaishan" /> </p>
 
