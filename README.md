@@ -20,13 +20,13 @@
 - 📫 How to reach me **nawodyain@gmail.com**
 
 - 👉🏼 ![Linkedin: nawodyaishan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nawodyaishan/)
-
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nawodyaishan&label=Profile%20views&color=0e75b6&style=flat" alt="nawodyaishan" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan" alt="nawodyaishan" /></a> </p>
--->
-<p align="center"> <a href="https://twitter.com/nawodyaishan" target="blank"><img src="https://img.shields.io/twitter/follow/nawodyaishan?logo=twitter&style=for-the-badge" alt="nawodyaishan" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan" alt="nawodyaishan" /></a> </p>
 
+<p align="center"> <a href="https://twitter.com/nawodyaishan" target="blank"><img src="https://img.shields.io/twitter/follow/nawodyaishan?logo=twitter&style=for-the-badge" alt="nawodyaishan" /></a> </p>
+-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
