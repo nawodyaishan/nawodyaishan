@@ -87,6 +87,8 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
+- [Begin your C# Game Development Journey Using This Challenge](https://nawodyaishan.medium.com/begin-your-c-game-development-journey-using-this-challenge-4c12f88849e6?source=rss-6c6cc46357d5------2)
 - [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
 - [Introduction to Machine Learning and Hello World in Neural Networks](https://nawodyaishan.medium.com/introduction-to-machine-learning-and-hello-world-in-neural-networks-317ab0f9fdfa?source=rss-6c6cc46357d5------2)
 <!-- BLOG-POST-LIST:END -->
