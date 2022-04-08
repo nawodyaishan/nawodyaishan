@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC📡 involving in ML, Game and Web Dev.
+#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 involving in ML, Game and Web Dev.
 
 
-<p align="center">
-<img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
+<p align="left">
+<img style="align-self:left"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 </p>
 
 - 🔭 I’m currently learning AI ML, GAME, & BACKEND dev.....
@@ -26,7 +26,7 @@
 -->
 
 <h3 align="left">Connect with me</h3>
-<p align="center">
+<p align="left">
 <a href="https://dev.to/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nawodyaishan" height="30" width="40" /></a> 
 <a href="https://medium.com/@nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nawodyaishan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawodyaishan" height="30" width="40" /></a>
