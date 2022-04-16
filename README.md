@@ -72,7 +72,14 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p> 
 
+## Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+- [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
+- [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
+<!-- BLOG-POST-LIST:END -->
+
+#
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawodyaishan&show_icons=true&locale=en&hide_border=true&theme=tokyonight&layout=compact" alt="nawodyaishan" /></p>-->
 
@@ -84,12 +91,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) 
 
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
-- [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
-<!-- BLOG-POST-LIST:END -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
