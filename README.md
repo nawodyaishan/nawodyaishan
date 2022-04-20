@@ -47,7 +47,7 @@
 
 <h3 align="center">Experience</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="csharp" width="40" height="40"/> </a> 
@@ -57,14 +57,14 @@
 
 
 
-</p> <p align="left">
+</p> <p align="center">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://koenig-media.raywenderlich.com/uploads/2015/03/1PbQpCce_400x400.jpg" alt="unity" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" alt="dotnet" width="150" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.flutter.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" width="40" height="40"/> </a>
 
-</p> <p align="left">
+</p> <p align="center">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
@@ -75,10 +75,12 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p> 
 
+ <p align="center">
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a> 
-
-#
-#
+ </p>
+  
+  # 
+  <p align="center">
 
 ## Blog posts
 
@@ -86,6 +88,8 @@
 - [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
 - [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
 <!-- BLOG-POST-LIST:END -->
+</p>
+
 
 #
 
