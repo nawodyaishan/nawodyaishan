@@ -44,8 +44,10 @@
 
 ###
 
-  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="30" width="1000" /></a> 
+  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="center" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a> 
 </p>
+
+#
 
 #
 
@@ -97,7 +99,7 @@
 
 
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p>
 
 
 
