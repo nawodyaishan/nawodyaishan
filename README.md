@@ -25,12 +25,15 @@
 <p align="center"> <a href="https://twitter.com/nawodyaishan" target="blank"><img src="https://img.shields.io/twitter/follow/nawodyaishan?logo=twitter&style=for-the-badge" alt="nawodyaishan" /></a> </p>
 -->
 
+https://docs.codewars.com/logo.svg
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nawodyaishan" height="30" width="40" /></a> 
-<a href="https://medium.com/@nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nawodyaishan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawodyaishan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nawodyaishan" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="nawodyaishan" height="30" width="30" /></a>
+<a href="https://medium.com/@nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nawodyaishan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nawodyaishan" height="30" width="40" /></a>
 <a href="https://twitter.com/nawodyaishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nawodyaishan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13907208/nawodya-ishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nawodyaishan" height="30" width="40" /></a> 
