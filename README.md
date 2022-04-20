@@ -79,8 +79,7 @@
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a> 
  </p>
   
-  # 
-  <p align="center">
+#
 
 ## Blog posts
 
@@ -88,7 +87,7 @@
 - [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
 - [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
 <!-- BLOG-POST-LIST:END -->
-</p>
+
 
 
 #
