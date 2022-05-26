@@ -70,7 +70,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
 - [Introduction to Machine Learning and Hello World in Neural Networks](https://dev.to/nawodyaishan/introduction-to-machine-learning-and-hello-world-in-neural-networks-51e1)
 <!-- BLOG-POST-LIST:END -->
