@@ -55,7 +55,7 @@
 </p> <p align="center">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://afac.org/wp-content/uploads/2019/12/aws-logojpg.jpg" alt="aws" width="55" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
