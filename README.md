@@ -2,7 +2,7 @@
 
 ## I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 involving in ML, Game and Web Dev.
+#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
 <p align="center">
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
