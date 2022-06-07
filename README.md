@@ -2,16 +2,13 @@
 
 ## I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-#### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
-
-<p align="center">
-<img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
-</p>
+### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
 - 🔭 I’m currently focusing on Unity and C#.....
 - 🎓 IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - ⚡ Fun fact: I love playing drums for 🎸rock & metal music while Headbanging \m/
+
 
 #
 ###  Connect With Me 📫 
