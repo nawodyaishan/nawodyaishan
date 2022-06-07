@@ -78,9 +78,9 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawodyaishan&show_icons=true&locale=en&hide_border=true&theme=tokyonight&layout=compact" alt="nawodyaishan" /></p>-->
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p> |
+| ------------- | ------------- |
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
