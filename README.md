@@ -5,7 +5,7 @@
 ### An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
 - 🔭 I’m currently focusing on Unity and C#.....
-- 🎓 IEEE CS SBC Chairman @SLTC
+- 🎓 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - ⚡ Fun fact: I love playing drums for 🎸rock & metal music while Headbanging \m/
 
