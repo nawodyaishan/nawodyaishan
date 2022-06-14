@@ -7,7 +7,7 @@
 - 🔭 I’m currently focusing on Unity and C#.....
 - 🎓 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
-- ⚡ Fun fact: I love playing drums for 🎸rock & metal music while Headbanging \m/
+- 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
 
 #
 ###  Connect With Me 📫 
