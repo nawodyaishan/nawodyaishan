@@ -64,27 +64,6 @@ Experience 🧑🏻‍💻
 
 </details>
 
-
-
-<details open>
-<summary> 
-GitHub Stats 📈 
-</summary>
-<br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p> |
-| ------------- | ------------- |
-
-
-
-<!-- svg source =  https://worldvectorlogo.com -->
-
-</details>
-
-
-
 <details>
 <summary> 
 Daily Usage ⏰
@@ -113,6 +92,27 @@ Daily Usage ⏰
 
 
 </details>
+
+<details open>
+<summary> 
+GitHub Stats 📈 
+</summary>
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p> |
+| ------------- | ------------- |
+
+
+
+<!-- svg source =  https://worldvectorlogo.com -->
+
+</details>
+
+
+
+
 
 
 
