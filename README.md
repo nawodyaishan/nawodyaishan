@@ -98,8 +98,7 @@ Daily Usage ⏰
 Recent Blog Posts 📝 
 </summary>
 <br>
-
-## Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [ASP.NET Core MVC - What are HTTP Status Codes?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-are-http-status-codes-3992)
