@@ -98,8 +98,7 @@ Daily Usage ⏰
 Recent Blog Posts 📝 
 </summary>
 <br>
-### Blog posts
-
+ 
 <!-- BLOG-POST-LIST:START -->
 - [ASP.NET Core MVC - What are HTTP Status Codes?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-are-http-status-codes-3992)
 - [ASP.NET Core MVC - What is IActionResult?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-is-iactionresult-1ee)
