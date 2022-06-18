@@ -93,6 +93,21 @@ Daily Usage ⏰
 
 </details>
 
+<details>
+<summary> 
+Recent Blog Posts 📈 
+</summary>
+<br>
+
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+</details>
+
+
 <details open>
 <summary> 
 GitHub Stats 📈 
