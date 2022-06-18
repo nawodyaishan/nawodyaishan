@@ -95,7 +95,7 @@ Daily Usage ⏰
 
 <details>
 <summary> 
-Recent Blog Posts 📈 
+Recent Blog Posts 📝 
 </summary>
 <br>
 
@@ -104,7 +104,8 @@ Recent Blog Posts 📈
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-More ➡️ 
+More Blog Posts Via ➡️ 
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nawodyaishan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nawodyaishan)
 [![HashNode](	https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nawodyaishan.hashnode.dev/)
