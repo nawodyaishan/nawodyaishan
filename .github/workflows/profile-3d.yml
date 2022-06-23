@@ -1,11 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 
 jobs:
   build:
