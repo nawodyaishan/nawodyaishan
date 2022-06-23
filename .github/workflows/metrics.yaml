@@ -27,7 +27,7 @@ jobs:
           # Options
           user: nawodyaishan
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
           config_timezone: Asia/Colombo
