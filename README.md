@@ -120,7 +120,7 @@ More Blog Posts Via ➡️
 </details>
 
 
-<details open>
+<details>
 <summary> 
 GitHub Stats 📈 
 </summary>
