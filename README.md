@@ -2,7 +2,7 @@
 
 ### I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
- An undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
+ Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
 - 🔭 I’m currently focusing on Unity and C#.....
 - 🎓 Former IEEE CS SBC Chairman @SLTC
