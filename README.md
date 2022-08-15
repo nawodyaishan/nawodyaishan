@@ -4,7 +4,7 @@
 
  Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
-- 🔭 I’m currently focusing on Unity and C#.....
+- 🔭 I’m currently focusing on Unity and Augmented Reality.....
 - 🎓 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
@@ -50,6 +50,7 @@ Experience 🧑🏻‍💻
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
