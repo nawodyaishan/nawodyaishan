@@ -4,7 +4,6 @@
 
  Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 
-- 🔭 I’m currently focusing on Unity and Augmented Reality.....
 - 🎓 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
