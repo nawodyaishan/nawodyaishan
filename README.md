@@ -66,11 +66,15 @@ Experience 🧑🏻‍💻
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a>
  
 
+
 </details>
 
 <details>
 <summary> 
 Daily Usage ⏰
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jw4s4xm80xem5w13cdvm609go&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+
 </summary>
 <br>
 
@@ -136,9 +140,6 @@ GitHub Stats 📈
 <!-- svg source =  https://worldvectorlogo.com -->
 
 </details>
-
-
-
 
 
 
