@@ -2,7 +2,7 @@
 
 ### I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 📚 Currently learning 🔑 Blockchain, Dapps and ⚛️React
+- 📚 Currently learning 🔑 Blockchain, Dapps and Next.js
 - 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 - 📌 Former IEEE CS SBC Chairman @SLTC
