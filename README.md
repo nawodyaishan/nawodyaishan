@@ -110,11 +110,11 @@ Recent Blog Posts 📝
 <br>
  
 <!-- BLOG-POST-LIST:START -->
+- [Simple Storage Smart Contract on Avalanche Blockchain with Solidity, TypeScript, EVM, HardHat and AvalancheJS](https://dev.to/nawodyaishan/simple-storage-smart-contract-on-avalanche-blockchain-with-solidity-typescript-evm-hardhat-and-avalanchejs-59i5)
 - [Ethereum Blockchain App Developer Learning Path](https://dev.to/nawodyaishan/ethereum-blockchain-app-developer-learning-path-4l7f)
 - [ASP.NET Core MVC - What are HTTP Status Codes?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-are-http-status-codes-3992)
 - [ASP.NET Core MVC - What is IActionResult?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-is-iactionresult-1ee)
 - [ASP.NET Core MVC - Introduction](https://dev.to/nawodyaishan/aspnet-core-mvc-introduction-1ij8)
-- [Basic Input and Output in C Language](https://dev.to/nawodyaishan/basic-input-and-output-in-c-language-32ip)
 <!-- BLOG-POST-LIST:END -->
 
 More Blog Posts Via ➡️ 
