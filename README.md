@@ -110,11 +110,11 @@ Recent Blog Posts 📝
 <br>
  
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Blockchain App Developer Learning Path](https://dev.to/nawodyaishan/ethereum-blockchain-app-developer-learning-path-4l7f)
 - [ASP.NET Core MVC - What are HTTP Status Codes?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-are-http-status-codes-3992)
 - [ASP.NET Core MVC - What is IActionResult?](https://dev.to/nawodyaishan/aspnet-core-mvc-what-is-iactionresult-1ee)
 - [ASP.NET Core MVC - Introduction](https://dev.to/nawodyaishan/aspnet-core-mvc-introduction-1ij8)
 - [Basic Input and Output in C Language](https://dev.to/nawodyaishan/basic-input-and-output-in-c-language-32ip)
-- [Begin your C# Game Development Journey Using This Challenge](https://dev.to/nawodyaishan/begin-your-c-game-development-journey-using-this-challenge-1d59)
 <!-- BLOG-POST-LIST:END -->
 
 More Blog Posts Via ➡️ 
