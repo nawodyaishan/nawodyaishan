@@ -39,40 +39,26 @@ Connect With Me 📫
 
 </details>
 
-
-
-
 <details open>
 <summary> 
 Experience 🧑🏻‍💻
 </summary>
 <br>
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Arch](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,unity,nestjs,solidity,express,react,nextjs,java,dotnet,firebase,mongodb,graphql,postgres,aws,heroku,linux,bash,vite,unreal,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
+<!---
+###
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a>
- 
-
+  -->
+###
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jw4s4xm80xem5w13cdvm609go&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+##
 
 </details>
 
 <details>
 <summary> 
 Daily Usage ⏰
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jw4s4xm80xem5w13cdvm609go&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 </summary>
 <br>
@@ -92,8 +78,9 @@ Daily Usage ⏰
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nawodyaishan)
 [![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/RaZorClaW_SL)
 
-![MacM2Pro](https://img.shields.io/badge/Mac Mini M2 Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![MacM2Pro](https://img.shields.io/badge/Apple-Mac_mini_M2_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacM1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacM1](https://img.shields.io/badge/Apple-Mac_mini_M2_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 </details>
