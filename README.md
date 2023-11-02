@@ -45,7 +45,7 @@ Experience 🧑🏻‍💻
 </summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,unity,nestjs,solidity,express,react,nextjs,flutter,java,dart,dotnet,firebase,prisma,mongodb,graphql,mysql,postgres,aws,heroku,linux,bash,vite,unreal,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,unity,nestjs,solidity,express,react,nextjs,flutter,java,dart,dotnet,firebase,prisma,mongodb,graphql,mysql,postgres,aws,docker,kubernetes,heroku,linux,bash,vite,unreal,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
 <!---
 ###
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a>
