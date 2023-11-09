@@ -113,7 +113,7 @@ More Blog Posts Via ➡️
 </details>
 
 
-<details>
+<!-- <details>
 <summary> 
 GitHub Stats 📈 
 </summary>
@@ -128,7 +128,7 @@ GitHub Stats 📈
 
 <!-- svg source =  https://worldvectorlogo.com -->
 
-</details>
+<!-- </details> -->
 
 
 
