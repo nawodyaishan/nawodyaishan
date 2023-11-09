@@ -85,7 +85,7 @@ Daily Usage ⏰
 
 ![MacM2Pro](https://img.shields.io/badge/Apple-Mac_mini_M2_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![MacM1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
-![MacM1](https://img.shields.io/badge/Apple-Mac_mini_M2_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 
 
 </details>
