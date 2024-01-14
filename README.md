@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nawodya%20Ishan)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Nawodya%20Ishan)
 
 ### I am Nawodya Ishan <img align="right" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
