@@ -4,7 +4,7 @@
 
 
 - 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
-- 📚 Currently learning Nest.js and NextJs..
+- 📚 Currently learning GraphQL and Dapps..
 - 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 - 📌 Former IEEE CS SBC Chairman @SLTC
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
@@ -51,7 +51,7 @@ Experience 🧑🏻‍💻
 </summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,unity,nestjs,solidity,express,react,nextjs,flutter,java,dart,dotnet,firebase,prisma,mongodb,graphql,mysql,postgres,aws,docker,kubernetes,heroku,linux,bash,vite,unreal,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,unity,nestjs,solidity,prisma,postgres,graphql,mongodb,firebase,express,vite,react,nextjs,dotnet,docker,kubernetes,flutter,java,dart,mysql,aws,heroku,linux,bash,unreal,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
 <!---
 ###
  <a href="https://www.codewars.com/users/nawodyaishan" target="blank"><img align="left" src="https://www.codewars.com/users/nawodyaishan/badges/large" alt="nawodyaishan" height="40" width="1000" /></a>
