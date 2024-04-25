@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Nawodya%20Ishan)
 
 
-- 💻 Associate Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
+- 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning GraphQL and Dapps..
 - 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
 - 📌 Former IEEE CS SBC Chairman @SLTC
