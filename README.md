@@ -48,7 +48,7 @@ Experience 🧑🏻‍💻
 </summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,nextjs,nestjs,solidity,drizzle,firebase,prisma,postgres,graphql,unity,postgres,mongodb,express,vite,dotnet,docker,kubernetes,aws,heroku,linux,bash,zustand,redux,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,nextjs,nestjs,solidity,firebase,prisma,postgres,graphql,unity,postgres,mongodb,express,vite,dotnet,docker,kubernetes,aws,heroku,linux,bash,vercel,git&theme=dark)](https://www.linkedin.com/in/nawodyaishan/)
 
 </details>
 
