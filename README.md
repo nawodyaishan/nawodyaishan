@@ -5,9 +5,9 @@
 
 - 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning GraphQL and Dapps..
-- 🎓 Final year undergraduate student from 🇱🇰 Sri Lanka Technological Campus AKA SLTC 📡 
-- 📌 Former IEEE CS SBC Chairman @SLTC
+- 🛠️ Currently working with NextJs and Unity..
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
+- 🎓 Former IEEE CS SBC Chairman from Sri Lanka Technological Campus 🇱🇰  
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
 
 
