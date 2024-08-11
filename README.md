@@ -13,6 +13,14 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaishan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="nawodyaishan" /></p> |
