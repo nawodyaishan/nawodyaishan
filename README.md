@@ -10,6 +10,8 @@
 - 🎓 Former IEEE CS SBC Chairman from Sri Lanka Technological Campus 🇱🇰  
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
