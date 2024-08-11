@@ -1,4 +1,4 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Nawodya%20Ishan)
 
@@ -8,6 +8,8 @@
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - 🎓 Former IEEE CS SBC Chairman from Sri Lanka Technological Campus 🇱🇰  
 - 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
+
+
 
 <details open>
 <summary> 
