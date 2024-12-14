@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Nawodya%20Ishan)
 
 - 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
-- 📚 Currently learning GraphQL and Dapps..
+- 📚 Currently learning Rust and Dapps..
 - 🛠️ Currently working with NextJs and Unity..
 - 🎯 Highly motivated to learn and explore new tech and solve problems ✅
 - 🎓 Former IEEE CS SBC Chairman from Sri Lanka Technological Campus 🇱🇰  
