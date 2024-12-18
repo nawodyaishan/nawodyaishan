@@ -5,11 +5,6 @@
 - 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning Rust and Dapps..
 - 🛠️ Currently working with NextJs and Unity..
-- 🎯 Highly motivated to learn and explore new tech and solve problems ✅
-- 🎓 Former IEEE CS SBC Chairman from Sri Lanka Technological Campus 🇱🇰  
-- 🥾⛰ Hiking 🎮 PCMR+PS 🎥 Cinephile 🥁 Drums 🎸 MetalHead 🤘
-
-
 
 <details open>
 <summary> 
@@ -75,36 +70,6 @@ Connect With Me 📫
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/nawodyaishan2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nawodya_ishan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6LhVOyXtXzOiWmxY-DrN0Q)
-
-</details>
-
-
-<details>
-<summary> 
-Daily Usage ⏰
-
-</summary>
-<br>
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-![WARP](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GoogleDocs](https://img.shields.io/badge/Google%20Docs-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jw4s4xm80xem5w13cdvm609go?si=b0c3aaff6c87438c)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nawodyaishan)
-[![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/RaZorClaW_SL)
-
-![MacM2Pro](https://img.shields.io/badge/Apple-Mac_mini_M2_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
-![MacM1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
-
 
 </details>
 
