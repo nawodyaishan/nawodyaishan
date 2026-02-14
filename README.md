@@ -2,7 +2,7 @@
 
 - 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
 - 📚 Currently learning K8s and Linux..
-- 🛠️ Architecting the Blockchain network, Infrastructure pipelines, and Backend integration layers...
+- 🛠️ Architecting the Blockchain networks, Infrastructure pipelines, and Backend integration layers...
 
 <details open>
 <summary> 
