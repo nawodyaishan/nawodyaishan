@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
 - 💻 Full Stack Software Engineer at [Metaroon Labs](https://metaroonlabs.com/), Sri Lanka
-- 📚 Currently learning Rust and Dapps..
-- 🛠️ Currently working with NextJs and Unity..
+- 📚 Currently learning K8s and Linux..
+- 🛠️ Architecting the Blockchain network, Infrastructure pipelines, and Backend integration layers...
 
 <details open>
 <summary> 
