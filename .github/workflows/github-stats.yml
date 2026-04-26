@@ -11,9 +11,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: jstrieb/github-stats@master
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          EXCLUDED_LANGS: "HTML,CSS,Jupyter Notebook,HLSL,ShaderLab,SCSS,TeX,Dart,R,C,Swift,Solidity"
-          EXCLUDE_FORKED_REPOS: true
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate language stats
+        uses: StefVuck/github-profile-language-analytics@v1
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+          visualization_types: "bar"
+          output_path: "github-stats"
+          exclude_languages: "HTML,CSS,HLSL,ShaderLab,SCSS,TeX,Dart,R,C,Swift,Solidity,Jupyter Notebook"
+          include_forks: "false"
+          dark_mode: "true"

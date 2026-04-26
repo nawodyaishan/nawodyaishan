@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+</div>
+
 <!-- ═══ HEADER ═══ -->
 <div align="center">
 
@@ -96,8 +100,10 @@ Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hu
 
 <div align="center">
 
-![GitHub Stats](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/overview.svg#gh-dark-mode-only)
-![Top Languages](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/bar.svg)
+![Top Languages](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/bar.svg)
+
+<img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
 
 </div>
 
@@ -112,6 +118,8 @@ Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hu
 </picture>
 
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawodyaishan&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
 
 <!-- ═══ CONNECT ═══ -->
 
