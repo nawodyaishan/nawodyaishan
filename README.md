@@ -85,8 +85,6 @@
 
 **BSc (Hons) Engineering in Information and Communication Engineering**  
 Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Completed 2025  
-*(Paused 2022–2024 for full-time industry immersion)*
-
 Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hugging Face, FastAPI, Next.js, Docker  
 → [github.com/nawodyaishan/ar-fashion-tryon](https://github.com/nawodyaishan/ar-fashion-tryon)
 
