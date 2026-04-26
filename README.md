@@ -63,9 +63,8 @@
 **Senior Software Engineer** `2025 – Present`
 
 - **[Draftables.io](https://draftables.io)** — full gameplay logic from scratch (OOP + MVCS, pre-AI era); Unity/backend wiring, GCP deployments, DB migrations, performance optimization — scaled to 10K+ concurrent players
-- **Solana token launch platform** — built from scratch: Anchor (Rust), Raydium/pump.fun bonding curve mechanics, Helius WebSockets, Next.js, Vite.js
-- **Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision), TensorFlow, MediaPipe, Hugging Face, Gradio, FastAPI, Next.js — Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
-- · Additional platform features and internal tooling shipped across the Metaroon Labs product suite.
+- **Solana token launch platform** — Anchor (Rust), Raydium/pump.fun bonding curve mechanics, Helius WebSockets, Next.js, Vite.js
+- Additional platform features and internal tooling shipped across the Metaroon Labs product suite.
 
 ---
 
@@ -74,7 +73,7 @@
 - Led engineering team — code reviews, mentoring, R&D, sprint management, and project-wide documentation across two concurrent product tracks
 - **American Football Simulation** — built internal play simulation engine with calculation tooling and testing platforms; architected CLI engine → Firebase Callable logic → Unity frontend; managed iOS/Android App Store releases
 - **Web3 expansion** — full-stack dApp development: Ethereum, Hardhat, Smart Contracts, ERC-721/ERC-20
-- · Additional internal products and client projects across gaming, Web3, and backend infrastructure.
+- Additional internal products and client projects across gaming, Web3, and backend infrastructure.
 
 ---
 
@@ -88,8 +87,9 @@
 
 ## Education
 
-**BSc (Hons) Engineering in Information and Communication Engineering**
+- **BSc (Hons) Engineering in Information and Communication Engineering**
 Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Completed 2025
+- **Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision), TensorFlow, MediaPipe, Hugging Face, Gradio, FastAPI, Next.js — Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
 
 <!-- ═══ GITHUB STATS ═══ -->
 
@@ -102,7 +102,7 @@ Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Comp
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/> -->
 
 </div>
 
