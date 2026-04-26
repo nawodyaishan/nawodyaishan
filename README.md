@@ -100,8 +100,8 @@ Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hu
 
 <div align="center">
 
-![GitHub Stats](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/bar.svg)
-![Top Languages](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/bar.svg)
+![GitHub Stats](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/leaderboard_by_lines.png)
+![Top Languages](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/leaderboard_by_lines.png)
 
 <img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
 

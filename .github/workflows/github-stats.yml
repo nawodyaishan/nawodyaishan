@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+name: Generate Language Stats
 
 on:
   schedule:
@@ -7,17 +7,18 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Generate language stats
-        uses: StefVuck/github-profile-language-analytics@v1
+      - uses: actions/checkout@v4
+      - uses: stefvuck/github-profile-language-analytics@v1.1.0
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          visualization_types: "bar"
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "leaderboard"
           output_path: "github-stats"
           exclude_languages: "HTML,CSS,HLSL,ShaderLab,SCSS,TeX,Dart,R,C,Swift,Solidity,Jupyter Notebook"
           include_forks: "false"
