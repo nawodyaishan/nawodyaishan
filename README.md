@@ -72,7 +72,7 @@
 
 - Led engineering team — code reviews, mentoring, R&D, sprint management, and project-wide documentation across two concurrent product tracks
 - **American Football Simulation** — built internal play simulation engine with calculation tooling and testing platforms; architected CLI engine → Firebase Callable logic → Unity frontend; managed iOS/Android App Store releases
-- **Web3 expansion** — full-stack dApp development: Ethereum, Hardhat, Smart Contracts, ERC-721/ERC-20
+- **Web3 expansion** — full-stack dApp development: Ethereum, Foundry, Hardhat, Smart Contracts, ERC-721/ERC-20
 - Additional internal products and client projects across gaming, Web3, and backend infrastructure.
 
 ---
