@@ -1,20 +1,13 @@
 <!-- ═══ HEADER ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Platform+Engineer+(Transitioning);3.5+Years+Production+Engineering;Building+OPUS+v2+%E2%80%94+Go+%2B+k8s+%2B+Terraform;Web3+%2B+MCP+%2B+DevSecOps)](https://git.io/typing-svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nawodyaishan&color=0e75b6&style=flat)
-![Status](https://img.shields.io/badge/Status-Actively%20Transitioning%20to%20Platform%20Engineering-blue?style=flat)
 
-**Platform Engineer (Transitioning) · Lead SWE @ Metaroon Labs · Colombo, Sri Lanka**
+**Web3 Lead & Senior Software Engineer · Metaroon Labs (Jun 2022 – Present)**
 
 </div>
 
 <!-- ═══ ABOUT ═══ -->
-
-3.5 years shipping production systems — game engines, Web3 infrastructure, AI/AR pipelines, and cloud-native backends. Now pursuing Platform Engineering full-time: building internal tooling, IaC pipelines, and MCP servers that expose infra operations to AI agents.
-
-Target roles: Platform Engineer · Site Reliability Engineer · DevOps Engineer · Cloud Infrastructure Engineer
 
 <!-- ═══ DIFFERENTIATORS ═══ -->
 
@@ -71,7 +64,7 @@ Target roles: Platform Engineer · Site Reliability Engineer · DevOps Engineer 
 
 **Full Stack SE & Team Lead** `Jul 2023 – 2024`
 
-- Formed and led a team of 4 (2 Unity devs, 2 Backend devs) — managed sprints, releases, architecture, client comms
+- Led engineering team across two concurrent product tracks.
 - **American Football Simulation** — architected CLI simulation engine → Firebase Callable logic → Unity frontend; managed alpha and App Store releases (iOS/Android)
 - **Web3 expansion** — full-stack dApp development: Ethereum, Hardhat, Smart Contracts, ERC-721/ERC-20
 - Stack: React, Next.js, Zustand, NestJS (WebSockets, Microservices), GCP Functions, Docker, GitHub Actions, Playwright, Railway, Vercel, AWS (60hr training)
@@ -103,7 +96,7 @@ Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hu
 
 <img src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaishan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=tex,javascript" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaishan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=c%23,html,shaderlab,css,jupyter+notebook" height="165" />
 
 </div>
 
