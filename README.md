@@ -21,9 +21,9 @@
 
 | # | Signal | Detail |
 |---|--------|--------|
-| 🔗 | **Web3 / Blockchain Infrastructure** | Shipped production Solana infrastructure (Anchor/Rust, Helius WebSockets, bonding curve mechanics). Ethereum dApp dev (Hardhat, ERC-721/ERC-20). Rare depth for a Platform Engineering candidate. |
-| 🤖 | **MCP / AI Agent Tooling for Ops** | Architected MCP server design exposing infra operations to AI agents — job ingestion pipelines, signal processing, Streamable HTTP transport. |
-| 🎮 | **Breadth of Production Delivery** | Shipped iOS/Android titles, a Web3 dApp, an AI/AR research system, and a Solana token platform. Evidence of consistent delivery across radically different domains. |
+| 🔗 | **Web3 / Blockchain Infrastructure** | Production Solana infrastructure (Anchor/Rust, Helius WebSockets) and Ethereum dApps. Rare depth for a Platform Engineering candidate. |
+| 🤖 | **MCP / AI Agent Tooling for Ops** | MCP server exposing infra ops to AI agents — job ingestion pipelines, Streamable HTTP transport. |
+| 🎮 | **Breadth of Production Delivery** | iOS/Android titles, Web3 dApp, AI/AR system, Solana token platform — consistent delivery across different domains. |
 
 <!-- ═══ TECH STACK ═══ -->
 
@@ -74,7 +74,6 @@
 - Led engineering team — code reviews, mentoring, R&D, sprint management, and project-wide documentation across two concurrent product tracks
 - **American Football Simulation** — built internal play simulation engine with calculation tooling and testing platforms; architected CLI engine → Firebase Callable logic → Unity frontend; managed iOS/Android App Store releases
 - **Web3 expansion** — full-stack dApp development: Ethereum, Hardhat, Smart Contracts, ERC-721/ERC-20
-- Stack: React, Next.js, Zustand, NestJS (WebSockets, Microservices), GCP Functions, Docker, GitHub Actions, Playwright, Railway, Vercel, AWS
 - · Additional internal products and client projects across gaming, Web3, and backend infrastructure.
 
 ---
@@ -89,19 +88,19 @@
 
 ## Education
 
-**BSc (Hons) Engineering in Information and Communication Engineering**  
-Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Completed 2025  
-Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hugging Face, FastAPI, Next.js, Docker  
-→ [github.com/nawodyaishan/ar-fashion-tryon](https://github.com/nawodyaishan/ar-fashion-tryon)
+**BSc (Hons) Engineering in Information and Communication Engineering**
+Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Completed 2025
 
 <!-- ═══ GITHUB STATS ═══ -->
 
 ## GitHub Stats
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=github-dark-blue&hide_border=true" />
+</div>
 
-![GitHub Stats](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/leaderboard_by_lines.png)
-![Top Languages](https://raw.githubusercontent.com/nawodyaishan/nawodyaishan/main/github-stats/leaderboard_by_lines.png)
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
 
