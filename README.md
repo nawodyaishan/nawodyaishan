@@ -31,7 +31,7 @@
 
 **Infrastructure & Cloud**
 
-[![infra](https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,gcp,githubactions,grafana,linux)](https://skillicons.dev)
+[![infra](https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,gcp,githubactions,grafana,prometheus,linux,redhat,ansible,jenkins,argocd)](https://skillicons.dev)
 
 **Languages**
 
@@ -62,7 +62,7 @@
 
 **Senior Software Engineer** `2025 – Present`
 
-- **[Draftables.io](https://draftables.io)** — implemented full gameplay logic from scratch (OOP + MVCS architecture, pre-AI era, months of solo implementation); owned Unity/backend wiring, GCP deployments, DB migrations, and performance optimization; scaled to 10K+ concurrent players
+- **[Draftables.io](https://draftables.io)** — full gameplay logic from scratch (OOP + MVCS, pre-AI era); Unity/backend wiring, GCP deployments, DB migrations, performance optimization — scaled to 10K+ concurrent players
 - **Solana token launch platform** — built from scratch: Anchor (Rust), Raydium/pump.fun bonding curve mechanics, Helius WebSockets, Next.js, Vite.js
 - **Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision), TensorFlow, MediaPipe, Hugging Face, Gradio, FastAPI, Next.js — Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
 - · Additional platform features and internal tooling shipped across the Metaroon Labs product suite.
