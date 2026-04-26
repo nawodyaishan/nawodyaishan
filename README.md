@@ -48,7 +48,7 @@
 **Web3**
 
 ![Solana](https://img.shields.io/badge/Solana%2FAnchor-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum%2FHardhat-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum%2FFoundry-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 <!-- ═══ EXPERIENCE ═══ -->
 
