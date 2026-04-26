@@ -1,6 +1,8 @@
 <!-- ═══ HEADER ═══ -->
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=620&lines=Web3+Lead+%26+Senior+Software+Engineer;3.5+Years+Shipping+Production+Systems;Solana+%7C+Ethereum+%7C+Cloud-Native+Backends;Go+%2B+Kubernetes+%2B+Terraform+%2B+MCP)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nawodyaishan&color=0e75b6&style=flat)
 
 **Web3 Lead & Senior Software Engineer · Metaroon Labs (Jun 2022 – Present)**
