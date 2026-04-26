@@ -18,7 +18,7 @@
 | # | Signal | Detail |
 |---|--------|--------|
 | 🔗 | **Web3 / Blockchain Infrastructure** | Shipped production Solana infrastructure (Anchor/Rust, Helius WebSockets, bonding curve mechanics). Ethereum dApp dev (Hardhat, ERC-721/ERC-20). Rare depth for a Platform Engineering candidate. |
-| 🤖 | **MCP / AI Agent Tooling for Ops** | Building MCP servers that expose infra operations to AI agents — job ingestion pipelines, signal processing, Streamable HTTP transport. Positions infra as an AI-native interface, not just YAML. |
+| 🤖 | **MCP / AI Agent Tooling for Ops** | Architected MCP server design exposing infra operations to AI agents — job ingestion pipelines, signal processing, Streamable HTTP transport. |
 | 🎮 | **Breadth of Production Delivery** | Shipped iOS/Android titles, a Web3 dApp, an AI/AR research system, and a Solana token platform. Evidence of consistent delivery across radically different domains. |
 
 <!-- ═══ TECH STACK ═══ -->
@@ -50,7 +50,7 @@
 
 ## Experience
 
-### Senior Software Engineer · Metaroon Labs (Jun 2022 – Present)
+### Web3 Lead & Senior Software Engineer · Metaroon Labs (Jun 2022 – Present)
 
 *Role progression: Intern/Associate SE → Full Stack SE & Team Lead → Senior Software Engineer*
 
@@ -58,7 +58,7 @@
 
 **Senior Software Engineer** `2025 – Present`
 
-- **[Draftables.io](https://draftables.io)** — scaled gameplay logic, optimised cloud functions, managed DB migrations, beta launched
+- **[Draftables.io](https://draftables.io)** — implemented full gameplay logic from scratch (OOP + MVCS architecture, pre-AI era, months of solo implementation); owned Unity/backend wiring, GCP deployments, DB migrations, and performance optimization; scaled to 10K+ concurrent players
 - **Solana token launch platform** — built from scratch: Anchor (Rust), Raydium/pump.fun bonding curve mechanics, Helius WebSockets, Next.js, Vite.js
 - **Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision), TensorFlow, MediaPipe, Hugging Face, Gradio, FastAPI, Next.js — Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
 
@@ -66,10 +66,10 @@
 
 **Full Stack SE & Team Lead** `Jul 2023 – 2024`
 
-- Led engineering team across two concurrent product tracks.
-- **American Football Simulation** — architected CLI simulation engine → Firebase Callable logic → Unity frontend; managed alpha and App Store releases (iOS/Android)
+- Led engineering team — code reviews, mentoring, R&D, sprint management, and project-wide documentation across two concurrent product tracks
+- **American Football Simulation** — built internal play simulation engine with calculation tooling and testing platforms; architected CLI engine → Firebase Callable logic → Unity frontend; managed iOS/Android App Store releases
 - **Web3 expansion** — full-stack dApp development: Ethereum, Hardhat, Smart Contracts, ERC-721/ERC-20
-- Stack: React, Next.js, Zustand, NestJS (WebSockets, Microservices), GCP Functions, Docker, GitHub Actions, Playwright, Railway, Vercel, AWS (60hr training)
+- Stack: React, Next.js, Zustand, NestJS (WebSockets, Microservices), GCP Functions, Docker, GitHub Actions, Playwright, Railway, Vercel, AWS
 
 ---
 
@@ -77,7 +77,7 @@
 
 - Unity game development for two mobile titles (iOS/Android)
 - TypeScript/React/Firebase Firestore for a web-based game
-- Skills: Unity (C#), OOP design patterns, TypeScript
+- Foundation in Unity (C#), OOP design patterns, and TypeScript
 
 <!-- ═══ EDUCATION ═══ -->
 
@@ -96,7 +96,7 @@ Final Year Research: AI/AR Virtual Try-On — CatVTON, TensorFlow, MediaPipe, Hu
 
 <img src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaishan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=c%23,html,shaderlab,css,jupyter+notebook" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaishan&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=c%23,html,shaderlab,css,jupyter+notebook,javascript,java,hlsl,scss,solidity" height="165" />
 
 </div>
 
