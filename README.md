@@ -19,15 +19,23 @@
 
 ## What Sets Me Apart
 
-| # | Signal | Detail |
-|---|--------|--------|
-| 🔗 | **Web3 / Blockchain Infrastructure** | Production Solana infrastructure (Anchor/Rust, Helius WebSockets) and Ethereum dApps. Rare depth for a Platform Engineering candidate. |
-| 🤖 | **MCP / AI Agent Tooling for Ops** | MCP server exposing infra ops to AI agents — job ingestion pipelines, Streamable HTTP transport. |
-| 🎮 | **Breadth of Production Delivery** | iOS/Android titles, Web3 dApp, AI/AR system, Solana token platform — consistent delivery across different domains. |
+<div align="center">
+
+---
+
+> Spent 3.5 years shipping across game engines, DeFi protocols, and cloud backends —  
+> now bringing that production context to infrastructure and platform work.  
+> Currently: Go · Kubernetes · Terraform · MCP tooling for ops workflows.
+
+---
+
+</div>
 
 <!-- ═══ TECH STACK ═══ -->
 
 ## Tech Stack
+
+<div align="center">
 
 **Infrastructure & Cloud**
 
@@ -50,46 +58,49 @@
 ![Solana](https://img.shields.io/badge/Solana%2FAnchor-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum%2FFoundry-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
+</div>
+
 <!-- ═══ EXPERIENCE ═══ -->
 
 ## Experience
+
+<div>
 
 ### Web3 Lead & Senior Software Engineer · Metaroon Labs (Jun 2022 – Present)
 
 *Role progression: Intern/Associate SE → Full Stack SE & Team Lead → Senior Software Engineer*
 
----
-
-**Senior Software Engineer** `2025 – Present`
+#### Senior Software Engineer `2025 – Present`
 
 - **[Draftables.io](https://draftables.io)** — full gameplay logic from scratch (OOP + MVCS, pre-AI era); Unity/backend wiring, GCP deployments, DB migrations, performance optimization — scaled to 10K+ concurrent players
 - **Solana token launch platform** — Anchor (Rust), Raydium/pump.fun bonding curve mechanics, Helius WebSockets, Next.js, Vite.js
 - Additional platform features and internal tooling shipped across the Metaroon Labs product suite.
 
----
-
-**Full Stack SE & Team Lead** `Jul 2023 – 2024`
+#### Full Stack SE & Team Lead `Jul 2023 – 2024`
 
 - Led engineering team — code reviews, mentoring, R&D, sprint management, and project-wide documentation across two concurrent product tracks
 - **American Football Simulation** — built internal play simulation engine with calculation tooling and testing platforms; architected CLI engine → Firebase Callable logic → Unity frontend; managed iOS/Android App Store releases
 - **Web3 expansion** — full-stack dApp development: Ethereum, Foundry, Hardhat, Smart Contracts, ERC-721/ERC-20
 - Additional internal products and client projects across gaming, Web3, and backend infrastructure.
 
----
-
-**Intern / Associate SE** `Jun 2022 – Jul 2023`
+#### Intern / Associate SE `Jun 2022 – Jul 2023`
 
 - Unity game development for two mobile titles (iOS/Android)
 - TypeScript/React/Firebase Firestore for a web-based game
 - Foundation in Unity (C#), OOP design patterns, and TypeScript
 
+</div>
+
 <!-- ═══ EDUCATION ═══ -->
 
 ## Education
 
-- **BSc (Hons) Engineering in Information and Communication Engineering**
+**BSc (Hons) Engineering in Information and Communication Engineering**  
 Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Completed 2025
-- **Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision), TensorFlow, MediaPipe, Hugging Face, Gradio, FastAPI, Next.js — Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
+
+**Final-year research: AI/AR Virtual Try-On** — CatVTON (Computer Vision)  
+TensorFlow · MediaPipe · Hugging Face · Gradio · FastAPI · Next.js  
+Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/nawodyaishan/ar-fashion-tryon)
 
 <!-- ═══ GITHUB STATS ═══ -->
 
@@ -98,12 +109,6 @@ Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Comp
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=nawodyaishan&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/> -->
-
 </div>
 
 <!-- ═══ CONTRIBUTION SNAKE ═══ -->
@@ -122,6 +127,8 @@ Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Comp
 
 <!-- ═══ CONNECT ═══ -->
 
+<div align="center">
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nawodyaishan)
@@ -129,3 +136,5 @@ Sri Lanka Technological Campus (SLTC) — *Washington Accord Accredited* · Comp
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nawodyaishan)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nawodyaishan)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawodyain@gmail.com)
+
+</div>
