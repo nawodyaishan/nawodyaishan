@@ -107,7 +107,7 @@ Dockerised Python backend deployed on Railway VMs → [repo](https://github.com/
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=nawodyaishan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" /> -->
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nawodyaishan&theme=github-dark-blue&hide_border=true" />
 </div>
 
