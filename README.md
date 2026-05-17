@@ -16,7 +16,7 @@ Recently I’ve been sharpening that direction through Go tooling: local-first c
 
 **Production strengths:**
 
-TypeScript · Node.js · NestJS · React · Next.js · GCP/Firebase production infrastructure · realtime databases · monitoring/tracing/alerting · Docker · GitHub Actions · Playwright · WebSockets · Webhooks · Unity/C# · Foundry/Hardhat · Solana/Anchor · Rust basics
+TypeScript · Node.js · NestJS · React · Next.js · GCP/Firebase production infrastructure · realtime databases · monitoring/tracing/alerting · Docker · GitHub Actions · Playwright · WebSockets · Webhooks · Unity/C# · Foundry/Hardhat · Solana/Anchor · Rust
 
 **Public Go tooling:**
 
@@ -36,8 +36,6 @@ Linux · AWS · Terraform · Kubernetes · OpenTelemetry/SLOs · security-aware 
 
 - **[AR Fashion Try-On](https://github.com/nawodyaishan/ar-fashion-tryon)**: final-year AI/AR research project using CatVTON, FastAPI, Next.js, Docker, and Railway to package model-driven virtual try-on into a usable web application.
 
-Most of my production work is in private company repositories at Metarune Labs. Public repositories here document selected tooling builds, research work, and engineering notes.
-
 ## Background
 
 Senior Software Engineer at **Metarune Labs**, a startup environment where I progressed from intern/associate engineer into senior engineering ownership and small-team technical leadership.
@@ -49,7 +47,7 @@ Selected engineering scope:
 - Owned backend-heavy Web3 product delivery across Ethereum/Solana integrations, wallet/auth flows, Helius WebSockets, webhooks, and event-driven backend workflows.
 - Built Solana token-launch features using Anchor/Rust basics, bonding-curve mechanics, multi-wallet governance flows, Next.js, NestJS, and Vite.
 - Implemented security-aware on-chain workflows involving transaction validation, wallet authority checks, signing flows, webhook verification, and backend state synchronization.
-- Built and supported GCP/Firebase production infrastructure: realtime databases, serverless backend workflows, monitoring, tracing, alerting, release support, and database migration scripts.
+- Built web3 game group up supported by GCP/Firebase production infrastructure: realtime databases, serverless backend workflows, monitoring, tracing, alerting, release support, and database migration scripts.
 - Improved release reliability through GitHub Actions CI/CD, Dockerized builds, Playwright automation, branch discipline, QA handoffs, deployment handoffs, and release coordination.
 - Designed gameplay and simulation workflows integrated with Unity clients, including backend wiring for cloud-backed game systems.
 - Led a 4-engineer squad across sprint planning, architecture decisions, code reviews, mentoring, technical research/prototyping, release planning, and documentation.
