@@ -47,7 +47,7 @@ Selected engineering scope:
 - Owned backend-heavy Web3 product delivery across Ethereum/Solana integrations, wallet/auth flows, Helius WebSockets, webhooks, and event-driven backend workflows.
 - Built Solana token-launch features using Anchor/Rust basics, bonding-curve mechanics, multi-wallet governance flows, Next.js, NestJS, and Vite.
 - Implemented security-aware on-chain workflows involving transaction validation, wallet authority checks, signing flows, webhook verification, and backend state synchronization.
-- Built web3 game group up supported by GCP/Firebase production infrastructure: realtime databases, serverless backend workflows, monitoring, tracing, alerting, release support, and database migration scripts.
+- Built American Football web3 game group up supported by GCP/Firebase production infrastructure: realtime databases, serverless backend workflows, monitoring, tracing, alerting, release support, and database migration scripts.
 - Improved release reliability through GitHub Actions CI/CD, Dockerized builds, Playwright automation, branch discipline, QA handoffs, deployment handoffs, and release coordination.
 - Designed gameplay and simulation workflows integrated with Unity clients, including backend wiring for cloud-backed game systems.
 - Led a 4-engineer squad across sprint planning, architecture decisions, code reviews, mentoring, technical research/prototyping, release planning, and documentation.
